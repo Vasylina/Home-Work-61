@@ -1,0 +1,17 @@
+{
+  "name": "lesson59",
+  "version": "1.0.0",
+  "description": "yarn",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/app.mjs"
+  },
+  "author": "Ivanichenko Alina",
+  "license": "ISC",
+  "dependencies": {
+    "celebrate": "^15.0.3",
+    "express": "^4.21.0",
+    "nodemon": "^3.1.7",
+    "pug": "^3.0.3"
+  }
+}
